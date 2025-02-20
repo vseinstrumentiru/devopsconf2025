@@ -7,3 +7,5 @@
 5. Документация на [Vector.dev Kubernetes logs source](https://vector.dev/docs/reference/configuration/sources/kubernetes_logs/) (2025, vector.dev)
 6. Статья [ClickHouse Grafana plugin 4.0 - Leveling up SQL Observability](https://clickhouse.com/blog/clickhouse-grafana-plugin-4-0) (2024, ClickHouse Blog)
 7. Статья [Vector.dev: как упростить подсчет метрик по логам](https://habr.com/ru/articles/809801/) (2024, Habr.com)
+8. Багрепорт [Vector.dev to_uinx_timestamp() panics issue](github.com/vectordotdev/vrl/issues/978) (2024), исправлен в [vector v0.44](https://vector.dev/releases/0.44.0/)
+
