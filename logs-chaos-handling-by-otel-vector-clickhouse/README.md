@@ -9,3 +9,4 @@
 7. Статья [ClickHouse Grafana plugin 4.0 - Leveling up SQL Observability](https://clickhouse.com/blog/clickhouse-grafana-plugin-4-0) (2024, ClickHouse Blog)
 8. Статья [Vector.dev: как упростить подсчет метрик по логам](https://habr.com/ru/articles/809801/) (2024, Habr.com) 
 
+**[!] Код VRL и SQL для нашего Unified Log Pipeline будет выложен позже, т.к. проходит проверку на NDA и ИБ на момент 06.04.2025.** Или появится позже в статье по адресу https://habr.com/ru/articles/898004/ (пока это черновик и он скрыт)
