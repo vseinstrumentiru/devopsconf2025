@@ -8,6 +8,6 @@
 6. Багрепорт [Vector.dev to_uinx_timestamp() panics issue](github.com/vectordotdev/vrl/issues/978) (2024, github.com), исправлен в [vector v0.44](https://vector.dev/releases/0.44.0/)
 7. Статья [ClickHouse Grafana plugin 4.0 - Leveling up SQL Observability](https://clickhouse.com/blog/clickhouse-grafana-plugin-4-0) (2024, ClickHouse Blog)
 8. Статья [Vector.dev: как упростить подсчет метрик по логам](https://habr.com/ru/articles/809801/) (2024, Habr.com)
-9. Альтернатива для просмотра логов [Telescope IDE](https://github.com/iamtelescope/telescope)
+9. Альтернатива для просмотра логов [Telescope Logs Viewer](https://github.com/iamtelescope/telescope)
 
 **[!] Код VRL и SQL для нашего Unified Log Pipeline будет выложен позже, т.к. проходит проверку на NDA и ИБ на момент 06.04.2025.** Или появится позже в статье по адресу https://habr.com/ru/articles/898004/ (пока это черновик и он скрыт)
